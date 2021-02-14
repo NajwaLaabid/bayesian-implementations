@@ -24,4 +24,4 @@ An empirical proof of Central Limit Theorem using Tensorflow Probability. This i
 
 **Notebook**: `test-jax.ipynb`
 
-This is a basic exploration of [JAX](https://github.com/google/jax) framework. The code is mainly adapted from Robert Tjarko Lange [tutorial](https://roberttlange.github.io/posts/2020/03/blog-post-10/). The project is currently work in progress (comments on the notebook coming up soon).
+This is a basic exploration of [JAX](https://github.com/google/jax) framework. The code is mainly adapted from Robert Tjarko Lange [tutorial](https://roberttlange.github.io/posts/2020/03/blog-post-10/). The project is currently work in progress (next up: comments on XLA & Autograd).
