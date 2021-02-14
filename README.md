@@ -1,6 +1,6 @@
 # Basic Bayesian Implementations
 
-This repository contains basic implementations of bayesian-related concepts/tools, mainly in Python and related libraries. This is an ongoing project that will expand as I explore more Bayesian methods/concepts through courses and personal readings.
+This repository contains basic implementations of bayesian-related concepts and tools, mainly in Python and related libraries. This is an ongoing project that will expand as I explore more Bayesian concepts through courses and personal readings.
 
 ## Gaussian Mixture Model Generative Process
 
