@@ -18,10 +18,10 @@ An implementation of [Gibbs Sampler](https://en.wikipedia.org/wiki/Gibbs_samplin
 
 **Notebook**: `test-clt.ipynb`
 
-An empirical proof of Central Limit Theorem using Tensorflow Probability. This is a simple practice exerice with Tensorflow Probability. We show that the means of a Bernoulli and Uniform distributions converge to a Normal distirbutions with a large enough sample size. The code for plotting is available in utils.py and the experiments can be run on the notebook experiments.ipynb.
+An empirical proof of Central Limit Theorem using Tensorflow Probability. This is a simple practice exerice with Tensorflow Probability. We show that the means of a Bernoulli and Uniform distributions converge to a Normal distirbutions with a large enough sample size. The code for plotting is available in `utils.py` and the experiments can be run on the notebook `experiments.ipynb`.
 
 ## Exploring JAX framework 
 
 **Notebook**: `test-jax.ipynb`
 
-This is a basic exploration of [JAX](https://github.com/google/jax) framework. The code is mainly adapted from Robert Tjarko Lange [tutorial](https://roberttlange.github.io/posts/2020/03/blog-post-10/). The project is currently work in progress (comments on the notebook coming up soon).
+This is a basic exploration of [JAX](https://github.com/google/jax) framework. The code is mainly adapted from Robert Tjarko Lange [tutorial](https://roberttlange.github.io/posts/2020/03/blog-post-10/). The project is currently work in progress (next up: comments on XLA & Autograd).
